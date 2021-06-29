@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TI_20537_Sens</string>
+    <string name="textObjectivo">Esta aplicação tenho como objetivo incorporar uma ferramenta de multimédia com sensores presentes no dispositivo. De uma forma mais científica, usar o ExoPlayer e através de sensores, neste caso de rotação e passar entre os vídeos disponíveis na aplicação.  </string>
+    <string name="textObjectivoInst">Se pretender ler as instruções da aplicação, por favor clique no botão "Instruções". Caso contrario "Voltar" para regressar ao Menu</string>
+    <string name="textInstru">Rode o dispositivo 90º para a esquerda e para a direita para passar entre os vídeos. A rotação tem de ser no sentido vertical.</string>
+    <string name="textInstru1">Rotação "Esquerda" -> Voltar ao video anterior.</string>
+    <string name="textInstru2">Rotação "Direita" -> Avançar para o proximo vídeo.</string>
+
+</resources>
